@@ -7,4 +7,8 @@ I worked on improving the User Service by implementing DTOs, API responses, erro
 13/08
 I worked on how the User Service communicates with the Order Service and understood the flow of data between them. I also understood that the User Service owns and manages its own user data and is responsible for user-related information.
 
+14/08
+I worked on handling service failures in the User Service. I practiced timeout, retry, circuit breaker, and fallback concepts and understood how they help the User Service remain stable when the Order Service is slow or unavailable.
+
+
 

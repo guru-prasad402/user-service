@@ -10,5 +10,8 @@ I worked on how the User Service communicates with the Order Service and underst
 14/08
 I worked on handling service failures in the User Service. I practiced timeout, retry, circuit breaker, and fallback concepts and understood how they help the User Service remain stable when the Order Service is slow or unavailable.
 
+17/08
+I worked on the User Service and made it ready to share user details with another microservice. I created the required API and DTO, tested the endpoint, and checked that the User Service responds properly when called by the Order Service.
+
 
 

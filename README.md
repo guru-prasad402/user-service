@@ -4,3 +4,7 @@ I worked on the User Service using Spring Boot. I created and configured the ser
 12/08
 I worked on improving the User Service by implementing DTOs, API responses, error handling, and configuration. I tested the service and verified that it handles errors properly and continues to communicate with the Order Service.
 
+13/08
+I worked on how the User Service communicates with the Order Service and understood the flow of data between them. I also understood that the User Service owns and manages its own user data and is responsible for user-related information.
+
+

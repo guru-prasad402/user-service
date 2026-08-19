@@ -13,5 +13,9 @@ I worked on handling service failures in the User Service. I practiced timeout, 
 17/08
 I worked on the User Service and made it ready to share user details with another microservice. I created the required API and DTO, tested the endpoint, and checked that the User Service responds properly when called by the Order Service.
 
+18/08
+I worked on registering the User Service with the Eureka Discovery Server. I configured the service name and Eureka connection, checked that the User Service was registered successfully, and tested accessing it through the API Gateway.
+
+
 
 
